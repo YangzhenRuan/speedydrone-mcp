@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "speedydrone": {
+      "type": "http",
+      "url": "https://agr.speedydrone.ca/mcp"
+    }
+  }
+}
