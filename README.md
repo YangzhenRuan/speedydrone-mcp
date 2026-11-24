@@ -1,5 +1,7 @@
 # SpeedyDrone MCP server
 
+[![SpeedyDrone MCP connector](https://glama.ai/mcp/connectors/ca.speedydrone.agr/site/badges/score.svg)](https://glama.ai/mcp/connectors/ca.speedydrone.agr/site)
+
 **Answers Canadian growers, custom applicators and research buyers on spray drones, drone spraying rules, spreading, Mavic 3M mapping, job costs and buy-vs-hire.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [SpeedyDrone](https://agr.speedydrone.ca?utm_source=github&utm_medium=readme&utm_campaign=mcp): **SpeedyDrone Canadian Agricultural Drone Library**. Connect it to ChatGPT, Claude or another AI assistant and it answers from SpeedyDrone's published guides and articles, and runs the same calculators as the website, so the numbers match, citing the page each answer comes from.
